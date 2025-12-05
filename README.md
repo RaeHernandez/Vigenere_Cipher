@@ -101,7 +101,7 @@ string vigenere(string text,string key,bool EncDec) {
 
 Below is a screenshot showing the application encrypting and decrypting a message in the terminal:
 
-![Vigenère Cipher Terminal Demo](terminal_demo.png)
+![Vigenère Cipher Terminal Demo](snippets.png)
 
 ## Repository Structure
 
